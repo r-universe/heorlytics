@@ -5,3 +5,6 @@
 [submodule "closeloop"]
 	path = closeloop
 	url = https://github.com/heorlytics/closeloop
+[submodule "drMAIC"]
+	path = drMAIC
+	url = https://github.com/heorlytics/drmaic
