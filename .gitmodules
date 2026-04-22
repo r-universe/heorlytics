@@ -5,6 +5,12 @@
 [submodule "closeloop"]
 	path = closeloop
 	url = https://github.com/heorlytics/closeloop
+[submodule "dceasimR"]
+	path = dceasimR
+	url = https://github.com/heorlytics/dceasimr
 [submodule "drMAIC"]
 	path = drMAIC
 	url = https://github.com/heorlytics/drmaic
+[submodule "htaBIM"]
+	path = htaBIM
+	url = https://github.com/heorlytics/htabim
